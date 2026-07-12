@@ -138,7 +138,7 @@ These are **Gameplay characteristics**:
 - Bus Interface Unit (BUI)
 - Branch Target Buffer (BTB)
 
-## What role does the German Basic Law1 play in youth protection?
+## What role does the German Basic Law play in youth protection?
 > The law text says that there shall be no censorship.
 Censorship is allowed for the sake of youth protection.
 
